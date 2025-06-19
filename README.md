@@ -22,5 +22,5 @@
 - DELETE `/api/products/{id}`: Xóa sản phẩm
 
 ## Người phát triển
-MSSV: 22520138
-Môn học: IE303
+- MSSV: 22520138
+- Môn học: IE303
