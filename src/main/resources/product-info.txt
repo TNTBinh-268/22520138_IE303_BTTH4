@@ -1,0 +1,35 @@
+image 1:
+- Name: 4DFWD PULSE SHOES
+- Price: 160.000
+- Brand: adidas
+- Description: This product is excluded from all promotional discounts and offers
+
+image 2:
+- Name: FORUM MID SHOES
+- Price: 100.00
+- Brand: Adidas
+- Description: This product is excluded from all promotional discounts and offers
+
+image 3:
+- Name: SUPERNOVA SHOES
+- Price: 150.00
+- Brand: Adidas
+- Description: NMD City Stock 2
+
+image 4:
+- Name: BEACH SEASON SHOES
+- Price: 160.00
+- Brand: Adidas
+- Description: Summer collection
+
+image 5:
+- Name: BLACK THADER
+- Price: 120.00
+- Brand: Adidas
+- Description: Speed Run
+
+image 6:
+- Name: FLOWAIR MID SHOES
+- Price: 160.00
+- Brand: Adidas
+- Description: Speed Run
